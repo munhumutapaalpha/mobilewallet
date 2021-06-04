@@ -1,0 +1,26 @@
+{
+  "name": "munhumutapaalpha",
+  "version": "2.2.0",
+  "description": "Client API library for the Munhumutapa Alphablockchain",
+  "main": "nrs.node.bridge.js",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/munhumutapaalpha/munhumutapaalphablockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "client",
+    "api"
+  ],
+    "dependencies": {
+    "async": "2.6.3",
+    "big-integer": "1.6.48",
+    "big.js": "5.2.2",
+    "bip32-path": "0.4.2",
+    "crc-32": "1.2.0",
+    "crypto-js": "3.3.0",
+    "jsbn": "0.1.1",
+    "node-fetch": "2.6.0",
+    "pako": "1.0.11"
+  }
+}
