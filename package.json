@@ -1,0 +1,15 @@
+{ "name" : "Munhumutapa Mobile",
+ "version" : "2.1.1",
+ "description" : "Mobile App for the Munhumutapa Alphablockchain",
+"main" : "index.js",
+ "scripts" :
+ { "test" : "test"
+},
+"repository" : {
+ "type" : "git" ,
+ "url" : "git+https://munhumutapaalpha@github.com/mobilewallet.git"
+},
+"author" : "Munhumutapa Inc.", 
+"license" : "MIT",
+ "homepage" : "https://munhumutapaalpha.js.org"
+}
