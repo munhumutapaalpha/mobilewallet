@@ -1,6 +1,8 @@
 {
   "name": "Munhumutapa",
-  "app_id": "ec170f70",
+  "integrations": {},
+  "type": "ionic1",
   "v2": false,
-  "typescript": false
+  "typescript": false,
+  "id": "ec170f70"
 }
