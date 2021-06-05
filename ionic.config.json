@@ -4,5 +4,11 @@
   "type": "ionic1",
   "v2": false,
   "typescript": false,
-  "id": "ec170f70"
+  "id": "ec170f70",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
 }

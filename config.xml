@@ -20,7 +20,7 @@ A mobile wallet for the Munhumutapa blockchain
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashScreen" value="screen" src="img/splash.png" />
     <preference name="loadUrlTimeoutValue" value="60000" />
-<icon src="icon.source.png" />
+<icon src="www/icon.source.png" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
